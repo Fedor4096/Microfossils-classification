@@ -15,6 +15,6 @@ Research on the potential application of machine learning in the task of identif
 
 The project was implemented using convolutional neural networks and the functionality of the TensorFlow library. Transfer learning was employed for training the convolutional layers.
 
-<img src="https://github.com/Fedor4096/Microfossils-classification/assets/108585151/a30b7142-6d92-4013-a46b-7d1045428aab" height="250" hspace="20" vspace="10">
-<img src="https://github.com/Fedor4096/Microfossils-classification/assets/108585151/3fa380fa-9331-40af-aaaf-8b277edac0b2" height="250" hspace="20" vspace="10">
-<img src="https://github.com/Fedor4096/Microfossils-classification/assets/108585151/82c38336-d126-4ca9-88eb-a99a5ea69158" height="250" hspace="20" vspace="10">
+<img src="https://github.com/Fedor4096/Microfossils-classification/assets/108585151/a30b7142-6d92-4013-a46b-7d1045428aab" height="250" hspace="10" vspace="10">
+<img src="https://github.com/Fedor4096/Microfossils-classification/assets/108585151/3fa380fa-9331-40af-aaaf-8b277edac0b2" height="250" hspace="10" vspace="10">
+<img src="https://github.com/Fedor4096/Microfossils-classification/assets/108585151/82c38336-d126-4ca9-88eb-a99a5ea69158" height="250" hspace="10" vspace="10">
